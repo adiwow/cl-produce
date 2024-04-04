@@ -17,6 +17,10 @@ From the word =LISP= is equal to List Processing. Linked lists are one of Lisp's
 After 2 months delving into Common Lisp: studying from the scratch, learning different kind of implementations, Writing a simple Library API and  macros etc. using the reference of the book Authored  by Peter Seibel =(Practical Common Lisp)= . The 2 months timeframe I learned about lisp is that this Programming Language has no =limits=, The only limit of you using this is your =imagination=. 
 
 
+* Common-lisp IDE's
+
+ - Aside from what I'm using which is =Emacs= , there are other editors you can use for Lisp programming. One popular option is =Vim=, known for its efficiency and plugins like slimv and vim-slime, which offer similar features to Emacs' SLIME. =Sublime Text= is another choice, with plugins like SublimeREPL for interactive Lisp development. =Atom and Visual Studio Code= are also options, each with plugins/extensions for Lisp programming. These editors provide alternatives to Emacs, but it depends on what will favor to you and comfortable with. But in my opinion,  I'll suggest that =Emacs= is the best text editor especially for starters. 
+
 
 
 
