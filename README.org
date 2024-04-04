@@ -1,1 +1,26 @@
-HELLO!
+#+title: Common Lisp - Projects 
+#+language: en
+#+startup: overview
+
+This =repo= will serve different kinds of projects showing =how much Lisp could do.=
+
+* What is and Why Common Lisp?
+
+- What is?
+
+Common Lisp is a dialect of the Lisp Programming Language, was developed as a standardized and improved successor of Maclisp in early 1980's. It is designed to make it easy to write programs that depends as little as possible on machine-specific. It allows you to define your own syntax because Lisp can support it with a library. In simpler terms, you can easily write your own =for loop= , =if statement= and your own =function definition=.
+
+From the word =LISP= is equal to List Processing. Linked lists are one of Lisp's major data structures. Compare to other mainstream languages, Lisp have many parentheses that treats both data and program instructions as lists, it allows for a simple and consistent syntax for representing and manipulating these lists, eliminate the need for complex parsing rules, making the language easier to analyze and manipulate programmatically. While the abundance of parentheses in Lisp code can be initially daunting for some, they ultimately contribute to the language's expressive power and flexibility.
+
+- Why?
+
+After 2 months delving into Common Lisp: studying from the scratch, learning different kind of implementations, Writing a simple Library API and  macros etc. using the reference of the book Authored  by Peter Seibel =(Practical Common Lisp)= . The 2 months timeframe I learned about lisp is that this Programming Language has no =limits=, The only limit of you using this is your =imagination=. 
+
+
+
+
+
+
+
+
+
